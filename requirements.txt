@@ -1,0 +1,5 @@
+fastapi
+sqlalchemy
+tortoise-orm
+asyncpg
+uvicorn
